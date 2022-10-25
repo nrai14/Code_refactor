@@ -2,7 +2,7 @@
 
 ## HTML CSS Git Code Refactor 
 
-For this project, we were given a codebase for an SEO company that required refining. The company (our client) had two aims: 1) A code base that follows accesssbility standards 2) A site taht is optimised for search engines. Thus, for this task, we analysed manners in which to improve the quality of the codebase by making it "cleaner". 
+For this project, we were given a codebase for an SEO company that required refining. The company (our client) had two aims: 1) A code base that follows accesssbility standards 2) A site that is optimised for search engines. Thus, for this task, we analysed manners in which to improve the quality of the codebase by making it "cleaner". 
 
 The first part of this project was cloning the starter code locally as well as creating a GitHub repository. A vital step for each project, as this allowed myself to share work with others who could review/collaborate with me. The repository link is as follows: https://github.com/nrai14/Module_1_Challenge.git
 
