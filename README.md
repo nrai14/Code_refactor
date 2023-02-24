@@ -16,7 +16,7 @@ The following are the changes that were made to ensure that the codebase matched
 
 Reviewing the project, it demonstrated the key importance of having an eye for detail to ensure proper coding practice is implemented at all times. There are always opportunities available to analyse and present cleaner code, which in turn feeds into honing my own abilities to build websites from scratch. 
 
-Screenshot: 
+Screenshot: https://github.com/nrai14/Code_refactor/issues/1#issue-1599131423 
 
 Please see the final website here: https://nrai14.github.io/Code_refactor/
 
